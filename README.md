@@ -9,7 +9,7 @@ A vote count report was generated to certify this US congressional race as expla
 #### There were 369,711 votes were cast in this congressional election
 
 #### A breakdown of the number of votes and the percentage of total votes for each county in the precinct are as follows:
-####County Votes:
+#### County Votes:
 County: Jefferson
 Number of votes: 38855
 County Vote Percentage: 10.5%
