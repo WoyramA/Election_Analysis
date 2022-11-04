@@ -12,15 +12,15 @@ A vote count report was generated to certify this US congressional race as expla
 County Votes:
 County: Jefferson
 Number of votes: 38855
-County Vote Percentage: 10.51%
+County Vote Percentage: 10.5%
 
 County: Arapahoe
 Number of votes: 24801
-County Vote Percentage: 6.71%
+County Vote Percentage: 6.7%
 
 County: Denver
 Number of votes: 306055
-County Vote Percentage: 82.78%
+County Vote Percentage: 82.8%
 
 #### Denver County had the largest number of votes
 
